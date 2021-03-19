@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mpfouziya
-- 👀 I’m interested in playing with data.
+- 👀 I’m interested in playing with data through Analysis and Machine Learning.
 - 🌱 I’m currently learning new skills in Data Science to keep me updated..
 - 📫 You can reach me on mpfouziya@gmail.com or 00966560754012
 
